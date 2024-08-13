@@ -3,7 +3,7 @@
 <h1 align="center"> Simple Calculator Script </h1>
 
 <h2 align="center">
-<img src="https://thumbs2.imgbox.com/ca/28/KjJu0cB3_t.png" width="200">
+<img src="https://images2.imgbox.com/ca/28/KjJu0cB3_o.png" width="200">
 </h2>
 
 <h3 align="center"> <a href="https://github.com/Sahampath">
