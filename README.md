@@ -12,7 +12,9 @@
 <h4 align="center"> <img src="https://img.shields.io/github/downloads/Sahampath/Simple-Calculator/total?style=for-the-badge&logo=appveyor">
 <img src="https://img.shields.io/github/stars/Sahampath/Simple-Calculator?style=for-the-badge&logo=appveyor">
 <img src="https://img.shields.io/github/forks/Sahampath/Simple-Calculator?style=for-the-badge&logo=appveyor"> </h4>
+
 ##
+
 ### 👨‍💻 Programming languages
  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 ##
